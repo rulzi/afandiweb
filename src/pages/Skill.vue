@@ -26,7 +26,7 @@
         <b>Web Application - </b> Make your workflow offline goes to online. 
       </li>
       <li>
-        <b>Web Travel - </b> Searching Flight with your own account.
+        <b>Web Travel - </b> Searching Flight on your own website.
       </li>
       <li>
         <b>Creating API - </b> Bridging Web for another web or apps.

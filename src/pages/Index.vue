@@ -18,9 +18,6 @@
       <li>
         <b>Email - </b> productive.afandi@gmail.com
       </li>
-      <li>
-        <b>Phone - </b> +62 838 3095 6015
-      </li>
     </ul>
 
   </Layout>
