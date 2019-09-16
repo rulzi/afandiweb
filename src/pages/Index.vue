@@ -26,7 +26,7 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Gridsome starter bootstrap'
+    title: 'Personal Web Profile'
   }
 }
 </script>
