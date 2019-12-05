@@ -2,58 +2,9 @@
   <Layout>
     <div>
       <img class="contact-image mb-4" src="../../uploads/email.svg" />
-      <b-form 
-        name="contact"
-        method="post"
-        @submit.prevent="handleSubmit"
-        action="/success/"
-        data-netlify="true"
-        data-netlify-honeypot="bot-field"
-      >
-    <h1 class="mb-4">Contact</h1>
-      <input type="hidden" name="name" value="contact" />
-      <p hidden>
-        <label>
-          Don’t fill this out: <input name="bot-field" />
-        </label>
-      </p>
-        <b-form-group id="input-group-2" label="Name:" label-for="form-name">
-          <b-form-input
-            id="name"
-            name="name"
-            v-model="form.name"
-            required
-            placeholder="Enter name"
-          />
-        </b-form-group>
-
-        <b-form-group
-          id="input-group-1"
-          label="Email:"
-          label-for="email"
-        >
-          <b-form-input
-            id="email"
-            v-model="form.email"
-            name="email"
-            type="email"
-            required
-            placeholder="Enter email"
-          />
-        </b-form-group>
-
-        <b-form-group id="input-group-3" label="Message:" label-for="message">
-          <b-form-textarea
-            id="message"
-            name="message"
-            v-model="form.message"
-            required
-            placeholder="Enter message"
-          />
-        </b-form-group>
-
-        <b-button type="submit" variant="primary">Submit</b-button>
-      </b-form>
+      <div class="text-center">
+      <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfYJDsPnHtkvyYu6Zvlmyz9oG6NTSUW5KousCjwdV2b55_zYQ/viewform?embedded=true" width="800" height="751" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+      </div>
     </div>
   </Layout>
 </template>

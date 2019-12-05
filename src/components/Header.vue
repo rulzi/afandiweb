@@ -14,7 +14,7 @@
           <!--<g-link class="nav--link" to="/blog">Blog</g-link>-->
           <g-link class="nav--link" to="../../uploads/pdf/resume.pdf">Resume</g-link>
           <g-link class="nav--link" to="../../uploads/pdf/portfolio.pdf">Portofolio</g-link>
-          <!--<g-link class="nav--link" to="/contact">Contact</g-link>-->
+          <g-link class="nav--link" to="/contact">Contact</g-link>
         </b-navbar-nav>
       </b-collapse>
     </b-navbar>
